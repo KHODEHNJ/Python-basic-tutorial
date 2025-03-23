@@ -1,2 +1,2 @@
 # Python-tutorial
-if you want to learn python i'm here for you
+Hi i am nima and i am here to teach you a lot of things
